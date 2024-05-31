@@ -1,7 +1,5 @@
 # cloud-native-educational-content
 
-Welcome to the `cloud-native-educational-content` channel! This channel is dedicated to sharing and discussing educational content related to cloud-native technologies within our organization.
-
 ## Goal
 
 The primary goal of this channel is to spread knowledge and best practices about cloud-native technologies among our development teams, DevOps engineers, and IT professionals. We aim to provide practical implementation guides, share best practices, and foster a collaborative environment where members can learn and grow together.
